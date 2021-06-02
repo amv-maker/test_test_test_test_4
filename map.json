@@ -597,7 +597,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"studio-master\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":10240,
          "imagewidth":512,
          "margin":0,
@@ -3695,7 +3695,7 @@
         {
          "columns":8,
          "firstgid":5121,
-         "image":"studio-master\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
