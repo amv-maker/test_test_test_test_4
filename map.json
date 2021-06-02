@@ -53,7 +53,7 @@
          "name":"Water sound logo",
          "opacity":0,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":59,
          "x":0,
          "y":0
@@ -468,12 +468,6 @@
          "id":45,
          "name":"desksarchivesCollides",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":59,
@@ -486,12 +480,6 @@
          "id":43,
          "name":"tablesCollides",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":59,
@@ -504,12 +492,6 @@
          "id":44,
          "name":"palmbaseCollides",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":59,
