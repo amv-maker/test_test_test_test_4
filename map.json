@@ -982,7 +982,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"mailto:hello@jppm.fr\u2019"
+                 "value":"mailto:hello@jppm.fr"
                 }],
          "type":"tilelayer",
          "visible":true,
